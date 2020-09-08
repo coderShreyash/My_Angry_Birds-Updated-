@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(blueviolet,blue);
+}
+button{
+  border-radius: 30px;
+  border: 60px 60px 60px 60px ;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  background-color: orange;
+  font-size: large;
+
+}
+.b1{
+  margin:0 0 0 20px
+}
+.b2{
+  margin:0 0 0 20px
+}
+.b3{
+  margin:0 0 0 600px
+}
